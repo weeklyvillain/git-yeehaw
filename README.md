@@ -1,2 +1,2 @@
 # git-yeehaw
-Clones a random git repo to your computer..
+Clones a random git public repo to your computer..
