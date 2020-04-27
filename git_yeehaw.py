@@ -20,5 +20,7 @@ if __name__ == "__main__":
     json_data = get_json(random_url)
     
     project = get_random_project(json_data)
-
+    
+    print("Beep Boop")
     os.system("git clone " + project['html_url'])
+    
